@@ -1,15 +1,15 @@
-Hi, i'm Vanim! 😁
+Oi, meu apelido é Vanim! 😁
 
-✨ I'm a Full-Stack Developer Student ✨
+✨ Sou estudante de Desenvolvimento Full-Stack ✨
 
 
-🌱 I'm currently learning Nodejs / MongoDB
+🌱 Atualmente estou estudando Nodejs / MongoDB
 
-💻 I'm looking to colaborate on open source projects
+💻 Procuro colaborar em projetos open-source
 
-💬 Ask me about Javascript, Nodejs, Express, MySQL
+💬 Me pergunte sobre Javascript, Nodejs, Express, MySQL
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
+📫 Contato: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
