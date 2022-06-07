@@ -3,7 +3,7 @@ Oi, meu apelido é Vanim! 😁
 ✨ Sou estudante de Desenvolvimento Full-Stack ✨
 
 
-🌱 Atualmente estou estudando Nodejs / MongoDB
+🌱 Atualmente estou estudando Python
 
 💻 Procuro colaborar em projetos open-source
 
