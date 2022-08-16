@@ -9,7 +9,9 @@ Oi, meu apelido é Vanim! 😁
 
 💬 Me pergunte sobre Javascript, Nodejs, Express, MySQL
 
-📫 Contato: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
+📫 Linkedin: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
+
+💌 Contato: vanimouzad123@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
