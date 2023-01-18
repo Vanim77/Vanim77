@@ -3,11 +3,11 @@ Oi, meu apelido é Vanim! 😁
 ✨ Sou estudante de Desenvolvimento Full-Stack ✨
 
 
-🌱 Atualmente estou estudando Python
+🌱 Atualmente estou estudando Reactjs / React Native
 
 💻 Procuro colaborar em projetos open-source
 
-💬 Me pergunte sobre Javascript, Nodejs, Express, MySQL
+💬 Me pergunte sobre Javascript, Reactjs, Nodejs (Express)
 
 📫 Linkedin: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
 
