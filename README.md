@@ -24,9 +24,3 @@ Oi, meu apelido é Vanim! 😁
   <img align="center" alt="Icon-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="right" alt="cat-gif" src="https://cdn.discordapp.com/attachments/837079960967053333/870847888140410900/cat-and-world.gif">
 </div>
-
-<br>
-<div>
-  <a href="https://github.com/vanim77">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanim77&layout=compact&langs_count=7&theme=gotham"/>
-</div>
