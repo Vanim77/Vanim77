@@ -3,7 +3,7 @@ Oi, meu apelido é Vanim! 😁
 ✨ Sou estudante de Desenvolvimento Full-Stack ✨
 
 
-🌱 Atualmente estou estudando Reactjs / React Native
+🌱 Atualmente estou estudando React.js
 
 💻 Procuro colaborar em projetos open-source
 
