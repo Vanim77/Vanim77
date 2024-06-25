@@ -7,7 +7,7 @@ Oi, meu apelido é Vanim! 😁
 
 💻 Procuro colaborar em projetos open-source
 
-💬 Me pergunte sobre Javascript, Reactjs, Nodejs (Express)
+💬 Me pergunte sobre Javascript, Reactjs, Nodejs
 
 📫 Linkedin: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
 
