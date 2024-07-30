@@ -1,13 +1,9 @@
 Oi, meu apelido é Vanim! 😁
 
-✨ Sou estudante de Desenvolvimento Full-Stack ✨
+✨ Desenvolvedor Full-Stack ✨
 
 
-🌱 Atualmente estou estudando React.js
-
-💻 Procuro colaborar em projetos open-source
-
-💬 Me pergunte sobre Javascript, Reactjs, Nodejs
+🌱 Atualmente estou estudando CI/CD
 
 📫 Linkedin: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
 
